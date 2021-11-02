@@ -22,6 +22,16 @@ and demonstrate how to implement and use the method:
 * exampleKSbeatingTravelling.py: recreates main results for beating travelling Kuramoto-Sivashinsky data
 * exampleKSbursting.py: recreates main results for bursting Kuramoto-Sivashinsky data
 
+All code was written in Python 3. The following libraries are used:
+* NumPy
+* SciPy
+* Keras
+* TensorFlow
+* scikit-learn
+* collections
+* Matplotlib
+* mpl_toolkits
+
 If you make use of this distribution, please cite "Charts and atlases for 
 nonlinear data-driven models of dynamics on manifolds," by D. Floryan and 
 M. D. Graham, arXiv:2108.05928, 2021. 
