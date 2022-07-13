@@ -1,12 +1,13 @@
 # CANDyMan
-Charts and Atlases for Nonlinear Data-Driven Dynamics on Manifolds
+Data-driven discovery of intrinsic dynamics
 
-README for Charts and Atlases for Nonlinear Data-Driven Dynamics on Manifolds
+README for CANDyMan:
+Charts and Atlases for Nonlinear Data-Driven Dynamics on Manifolds
 
 This distribution contains code that implements an atlas of charts in the 
 context of data-driven forecasting of dynamical systems, as described in
-"Charts and atlases for nonlinear data-driven models of dynamics on manifolds," 
-by D. Floryan and M. D. Graham, arXiv:2108.05928, 2021. 
+"Data-driven discovery of intrinsic dynamics," by D. Floryan and M. D. Graham, 
+arXiv:2108.05928, 2021. 
 
 This distribution contains two primary Python functions: 
 * chartMap.py: implements an atlas of charts
@@ -38,6 +39,5 @@ All code was written in Python 3. The following libraries are used:
 * Matplotlib
 * mpl_toolkits
 
-If you make use of this distribution, please cite "Charts and atlases for 
-nonlinear data-driven models of dynamics on manifolds," by D. Floryan and 
-M. D. Graham, arXiv:2108.05928, 2021. 
+If you make use of this distribution, please cite "Data-driven discovery of 
+intrinsic dynamics," by D. Floryan and M. D. Graham, arXiv:2108.05928, 2021. 
