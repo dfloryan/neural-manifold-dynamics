@@ -21,6 +21,12 @@ and demonstrate how to implement and use the method:
 * exampleKSbeating.py: recreates main results for beating Kuramoto-Sivashinsky data
 * exampleKSbeatingTravelling.py: recreates main results for beating travelling Kuramoto-Sivashinsky data
 * exampleKSbursting.py: recreates main results for bursting Kuramoto-Sivashinsky data
+* exampleReactDifNeumann.py: recreates main results for reaction-diffusion data
+
+Note: the reaction-diffusion dataset is too large to store on Github. 
+In its place, Matlab code that will produce the dataset has been provided. 
+Once created, place the dataset in the same directory as 
+exampleReactDifNeumann.py. 
 
 All code was written in Python 3. The following libraries are used:
 * NumPy
