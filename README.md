@@ -1,8 +1,8 @@
-# CANDyMan
+# neural-manifold-dynamics
 Data-driven discovery of intrinsic dynamics
 
-README for CANDyMan:
-Charts and Atlases for Nonlinear Data-Driven Dynamics on Manifolds
+README for neural-manifold-dynamics:
+Data-driven discovery of intrinsic dynamics
 
 This distribution contains code that implements an atlas of charts in the 
 context of data-driven forecasting of dynamical systems, as described in
